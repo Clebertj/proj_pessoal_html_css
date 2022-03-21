@@ -1,0 +1,51 @@
+<! DOCTYPE html>
+
+<html>
+  <hear>
+  <br>
+  <!--primeira linha colocamos barra de progresso-->
+   <section>Ja carrego a pagina para você<progress></progress><br></section>
+   
+   <!--proxima linha colocar titulo na aba-->
+   <title>Despachante de Trãnsito</title>
+   <link rel="stylesheet" href="projeto github\criando meu site\pagina inicial\home.css" type="text/css" media="screen">
+   </head>
+   </body>
+                    <!--proxima linha colocar titulo principal com <hl> para detacar-->
+   <header><h1>Despachante de trânsito</h1></header>
+                     <!--proxima linha colocar uma imagem-->
+   <img src="1.png" title="Profissional Credenciado no Rio Grande do Sul" height="150px">
+                   <!--proxima linha criar menus e <hr para espaçar e pular linha>-->
+   <details>
+   <summary>Menu</summary>
+  <nav><h2>Navegação</h2></nav><hr> 
+                         <!--proxima linha colocar titulo na aba-->
+   <section><b><h3>Seviços</h3></b><br>
+   Pague seu debito em até 18x</section><hr>
+                         <!--aqui é só um comentario-->
+    <section><h3>Preços</h3></section>
+	              <!--proxima linha cria lista numerica em ordem-->
+	<ol><li>Baixar CRLV-e</li><ul><li>R$ 60.00</li></ul>
+	<li>Comunicação de venda</li><ul><li>R$ 70.00</li></ul>
+	<li>Baixar ATPV-e</li><ul><li>R$ 50.00</li></ul>
+	                 <!--proxima linha link para outra pagina-->
+	<a href="contato.html"><h4><li>Valor de outros serviços- consulte nosso especialista</li></h4></ol><hr>
+	</details>
+	
+	<section><h3>Pagamento</h3></section>
+	
+   <a href="contato.html">
+   
+   <footer><h4>Contato</h4></footer></a><br>
+   
+   <video src="texte.mp4" width= "320" controls></video><hr><br>
+   
+    <!--proxima linha inclusão de uma musica-->
+   
+   <section><audio src="smallville.mp3" title="musica smallville" controls></audio></section><br>
+   
+
+   
+<footer><em>Direitos autorais @ Cleber dos Santos Moraes</em></footer>
+   <body>
+</html>
